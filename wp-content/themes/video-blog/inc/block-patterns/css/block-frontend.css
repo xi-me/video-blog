@@ -1,0 +1,20 @@
+.post-section h2, .blog-section h3 {
+	font-weight: 600;
+}
+.playlist-box h2{
+	color: #fff !important;
+}
+/*responsive media*/
+@media screen and ( max-width: 768px ) and ( min-width: 576px ) {
+	.post-section .wp-block-column {
+		flex-basis: 50% !important;
+		margin:  0 !important;
+	}
+	.blog-section, .post-section{
+		flex-wrap: nowrap !important;
+		gap: 1em;
+	}
+	.blog-section .wp-block-column:nth-child(2){
+		margin: 0 15px;
+	}
+}

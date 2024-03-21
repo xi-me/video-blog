@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AprendeProgramación</title>
+	<atom:link href="https://xi-me.github.io/video-blog/feed/" rel="self" type="application/rss+xml" />
+	<link>https://xi-me.github.io/video-blog</link>
+	<description></description>
+	<lastBuildDate>Thu, 21 Mar 2024 04:49:41 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://xi-me.github.io/video-blog/wp-content/uploads/2024/03/cropped-div-coding-icon-32x32.webp</url>
+	<title>AprendeProgramación</title>
+	<link>https://xi-me.github.io/video-blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
+</rss>
